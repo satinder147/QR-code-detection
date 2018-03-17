@@ -1,5 +1,11 @@
 # QR_DETECTION
-libraries needed->opencv,numpy,pyzbar
+libraries needed->
+
+1)opencv
+
+2)numpy
+
+3)pyzbar
 
 This is a small little project i made few days back.
 It can detect qr codes in the image using opencv-python
