@@ -17,3 +17,4 @@ The procedure is:
 
 7)The url we get is opened in the browser
 
+![screenshot 204](https://user-images.githubusercontent.com/24778913/37554104-135b3170-29fa-11e8-915c-214509fe36e7.png)
